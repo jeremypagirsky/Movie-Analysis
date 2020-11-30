@@ -59,7 +59,7 @@ Further analyses may consider the following for deeper insights into the film in
 
 ## For More Information
 
-Please review the full analysis in [the Jupyter Notebook](./dsc-phase-1-project-online/Microsoft_Movie_Analysis.ipynb) or the [presentation](./dsc-phase-1-project-online/Microsoft_Movie_Analysis_Pres.pdf).
+Please review the full analysis in [the Jupyter Notebook](Microsoft_Movie_Analysis.ipynb) or the [presentation](./dsc-phase-1-project-online/Microsoft_Movie_Analysis_Pres.pdf).
 
 For any additional questions, please contact **Jeremy Pagirsky** at **jeremy.pagirsky@gmail.com**
 
